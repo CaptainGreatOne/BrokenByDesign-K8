@@ -3,6 +3,11 @@
 A progressive, failure-driven Kubernetes learning repository built on KIND.
 Designed to teach not just how to use Kubernetes — but how to think in Kubernetes.
 
+## Note
+This Repository is meant to surve two purposes. 
+1) To assist developers and engineers in learning Kubernetes, and how Kubernetes interacts in a production environment. 
+2)  To be a continuation of the original Broken By Design lab. In the original Broken By Design, a developer can learn about observation of an application in the context of Docker. In this repository, a developer can learn about observation, but within the context of Kubernetes. I recommend heading to the first repository, which can be found here → [Broken By Design](https://github.com/CaptainGreatOne/BrokenbyDesign).
+
 ### 📌 Purpose
 
 This repository is not a collection of YAML files.
