@@ -9,7 +9,6 @@ This Repository is meant to surve two purposes.
 2)  To be a continuation of the original Broken By Design lab. In the original Broken By Design, a developer can learn about observation of an application in the context of Docker. In this repository, a developer can learn about observation, but within the context of Kubernetes. I recommend heading to the first repository, which can be found here → [Broken By Design](https://github.com/CaptainGreatOne/BrokenbyDesign).
 
 ### 📌 Purpose
-
 This repository is not a collection of YAML files.
 
 It is a structured, layered lab designed to move from:
@@ -34,7 +33,6 @@ The goal is to understand:
 
 
 ### 🧠 Learning Philosophy
-
 Most tutorials focus on:
 
 “Here is the YAML. Now it works.”
@@ -59,8 +57,7 @@ You are not just deploying applications.
 You are learning how distributed systems behave under orchestration.
 
 ### 🏗️ Repository Structure
-```
-k8s-platform-lab/
+```k8s-platform-lab/
 │
 ├── 00-foundations-kind/
 ├── 01-core-kubernetes/
@@ -76,7 +73,6 @@ k8s-platform-lab/
 ```
 
 ### Project Directory
-
 - [PHASE 00 - Foundations](00-foundations-kind/README.md)
 - [PHASE 01 - Core Kubernetes](01-core-kubernetes/README.md)
 - [PHASE 02 - Kubernetes Failures](02-failure-labs/README.md)
@@ -86,7 +82,6 @@ k8s-platform-lab/
 - [PHASE 6 - Observability](06-observability/README.md)
 
 ### 🔁 How to Use This Lab
-
 Each phase contains:
 - Step-by-step exercises
 - Failure scenarios
@@ -101,7 +96,6 @@ Do not skip phases.
 Depth matters more than speed.
 
 ### 🎯 End Goal
-
 By the end of this repository, you should be able to:
 - Deploy applications to Kubernetes confidently
 - Debug failures systematically
@@ -112,7 +106,6 @@ By the end of this repository, you should be able to:
 - Explain Kubernetes concepts clearly to others
 
 ### 📚 Why This Exists
-
 This project exists because:
 - Surface-level tutorials do not create operational confidence.
 - Kubernetes knowledge often remains abstract.
